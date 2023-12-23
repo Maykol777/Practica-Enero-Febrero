@@ -1,0 +1,179 @@
+ubicacion;subUbicacion;clase;subclase;nombre;marca;modelo;serie;numeroInventario;ano;vidaUtil;propietario;estado;criticidad;garantia;vencimientoGarantia;planMantencion;tipoEquipo;idConvenio;idInstitucion;eliminado
+Laboratorio;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;CENTRIFUGA;EPPENDORF;5702;;1420;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;MICROSCOPIO;OLYMPUS;CX31;31RBSFA;1395;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Monitoreo;Alto Costo;ESTUFA DE CULTIVO;MEMMERT;;;1679;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Imagenologia;Alto Costo;AGITADOR DE MUESTRAS;SHAKER;VRN-360;16528;1398;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Monitoreo;Mediano Costo;CENTRIFUGA;HETTICH;2104;207;1399;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Monitoreo;Mediano Costo;CONTADOR DE CELULAS;PL ELECTRONICA;P-L;3113;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Monitoreo;Mediano Costo;BAÑO TERMO REGULADOR;PL ELECTRONICA;P-L;2826;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;PURIFICADOR DE AGUA;vigablow;;14146;1367;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;MONITOR MULTIPARAMETROS;DRAGER;VISTA-120;VTCHM0102;714;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;MONITOR CARDIOFETAL;cronometric;171;SAS10154945PA;705;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Laboratorio/Farmac;Mediano Costo;DOPPLER ULTRASONIDO PORTATIL;EDAN;SONOTRAX II PRO;304127-M14506620012;1399;;8;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Maternidad;Hospital de Contulmo;Apoyo Terapeutico;Alto Costo;INCUBADORA TRANSPORTE RN;AIRBURNE;185 A;1073;1234;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Maternidad;Hospital de Contulmo;Laboratorio/Farmac;Mediano Costo;CUNA RADIANTE;FISHER&PAIKEL;COSYCOT;9895AEU00376;1395;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Laboratorio;Hospital de Contulmo;Laboratorio/Farmac;Mediano Costo;OXIMETRO DE PULSO;handheld;A380;A3601401119;1679;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Imagenologia;Bajo Costo;BALANZA;seca;725;2725040000000;620;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BOMBA ASPIRACION;thomas;1636 A;90600000762;1234;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;DOPPLER ULTRASONIDO PORTATIL;EDAN;SONOTRAX II PRO;304127-M14506620020;2053;;8;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Med. Fis. Rehabilitacion;Mediano Costo;LAMPARA DE PIE PARA PROCEDIMIENTOS;MARTIN;C300SH;70619;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Med. Fis. Rehabilitacion;Mediano Costo;CAMILLA QUIRURGICA;merivaara;IP66W;201507000000;560;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;ELECTROBISTURI;SURTRON;200;3650178512;619;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BOMBA ASIPIRACION;APEX;VACPRO;3325;705;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;BOMBA ASIPIRACION;thomas;1242;0513 00003802;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;LAMPARA DE PABELLON;BAIKYO;7705;11V006;715;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;MONITOR CARDIOFETAL;cronometrics;170 series;SAS08131710PA;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BALANZA RN;SECA;725;27252140;846;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BOMBA ASPIRACION;SEWARD;S/MOD.;48-04-91;817;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;ELECTROBISTURI;EXCEL;350MC;;819;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;MAQUINA DE ASPIRACION;TECNIGEN;;;830;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;VENTILADOR MANUAL NEONATAL;INFANT;S/modelo ;S/serie ;872;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;VENTILADOR MANUAL NEONATAL;Non-Rebreathing;S/modelo ;S/serie ;1237;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;LARINGOSCOPIO RECIEN NACIDO;GOWLLANDS;s/moselo;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BALANZA RN;baby scale;s/modelo;s/serie;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;LAMPARA DE PABELLON 2;Astralite;HZ14461;2170;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Alto Costo;LARINGOSCOPIO;welchallyn;355;;1234;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;MONITOR SIGNOS VITALES;BLT;M8000A;M012E000187;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;HEMOGLUCOTEST;ACCU-CHEK;NC;68821397192;1247;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;BOMBA ASPIRACION;thomas;1636-a;31700005205;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;DESFIBRILADOR;zoll;M-SERIES;TC04C5G797;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;AED (DESFIBRILADOR PORTATIL);ZOLL;AED /PLUS;X09D404564;1284 (1751);;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;LAMPARA DE PIE PROCEDIMIENTOS;welchallyn;gs 300 ;n344 ;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;CAMILLA ATENCION PACIENTES;s/marca;s/model;s/serie;554;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;OXIMETRO DE PULSO;drive;18707;6k1412000305;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;OXIMETRO DE PULSO;BMP;MD300C12;S/NUMERO;562;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;OTOSCOPIO;rister;e/escope;S/serie;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;HEMOGLUCOTEST;ACCU-CHEK;NC;68821404907;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;OFTALMOSCOPIO;welchallyn;13010;;559;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;DESFIBRILADOR PORTATIL;philips;intelliVue mp2;123;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BOMBA ASPIRACION;CA.MI;ASKIR 36 BR;6219;1348 ( 2020 );;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;DESFRIBILADOR;E&M;C-12;6253373;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;MONITOR SIGNOS VITALES;criticare;506N3;406230392;1539;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;MONITOR MULTIPARAMETROS;meditech;M7;101180000000;2053;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;MONITOR DE SIGNOS VITALES;CHENSEN;PC 900;J0100KJ01289;2051;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BOMBA INFUSION;B/BRAUN;8713070;206533;1535;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Terapeutico;Bajo Costo;BOMBA INFUSION;B/BRAUN;8712263;31281;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;PESA PORTATIL;PRECISION;SECA;88030101614;1589 ( 1284);;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;DESFIBRILADOR PORTATIL (AED);ZOLL;AED/PLUS;X-17195453;1543 ( 1383);;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;OXIMETRO DE PULSO;CHOICEMMED;MD300M;174805000000;1398;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;ANALIZADOR DE EXAMENES;I-STAT;300-G;357532;1420;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;IMPRESORA;I-STAT;PR-300;1102155;;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;IMPRESORA DE BRASALETT;ZEBRA;HC100;09J173500438;561;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;ELECTROCARDIOGRAMA;NIHON-Kohden;ECG 1150 ;1809;1243;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;ELECTROCARDIOGRAMA;SMART ECG;SE-1;SE13A030793840;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;TELEMEDICINA;MICROTEL;83048045;0927160C;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;OXIMETRO DE PULSO;Heal Force;s/modelo;6788;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;OXIMETRO DE PULSO;CHOICEMMED;s/modelo;155310000000;1148;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;HEMOGLUCOTEST;accu-chek;NC;68821404903;2442;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;ELECTROCARDIOGRAFO;CONTEC;ECG600G;1.4.02.03.084;2443;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 1;JOSON CARE;MS08FS;1203040229;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 2;JOSON CARE;MS08FS;1203040341;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 3;JOSON CARE;MS08FS;1203040275;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 4;JOSON CARE;MS08FS;1203040222;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 5;JOSON CARE;MS08FS;1203040196;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMILLA URGENCIA 2;emergency;;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Bajo Costo;CAMA CLINICA POSTRADOS 6;JOSON CARE;MS08FS;1203040337;1284 (1751);;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 7;JOSON CARE;MS08FS;1203040216;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 8;JOSON CARE;MS08FS;1203040277;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 9;JOSON CARE;MS08FS;1203040223;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 10;JOSON CARE;MS08FS;1203040247;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 11;JOSON CARE;MS08FS;1203040155;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA POSTRADOS 12;JOSON CARE;MS08FS;1203040173;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMILLA URGENCIA;emergency;S/MODELO;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;INCUBADORA ESTERILIZACION;3m;attest;321950;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Esterilizacion;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;SELLADORA;3M;DRS1;1739;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;TERMOMETRO INFRARROJO;extech;IR200;197;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;OXIMETRO DE PULSO PEDIATRICO;CHOICEMMED;md300c5;160209000000;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;OXIMETRO DE PULSO ADULTO;BPM;MD300C12;142027000000;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;HEMOGLUCOTEST;accu-chek;NC;68802005867;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;TOMA PRESION ;riester;CE;124;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;BALANZA;ADE;M318800;12050394;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;BALANZA PORTATIL;seca;;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;apoyo clinico;Mediano Costo;CAMA CLINICA 1;JasonCare;MS-08FS;1203040229;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 2;IM-o;MATRIX E30;39579;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 3;IM-o;MATRIX E30;39581;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 4;IM-o;MATRIX E30;39576;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 5;IM-o;MATRIX E30;39580;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 6;JOSON CARE;MS08FS;1203040337;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 7;IM-o;MATRIX E30;39583;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 8;IM-o;MATRIX E30;39578;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 9;JOSON CARE;MS08FS;1203040173;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 10;JOSON CARE;MS08FS;1203040216;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CAMA CLINICA 11;JOSON CARE;MS08FS;1203040196;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;CUNA PEDIATRICA;s/marca;BP200-L160;611060003;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 1;JOSON CARE;JF-014;39347;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 2;JOSON CARE;JF-014;39336;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 3;JOSON CARE;JF-014;39354;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 4;JOSON CARE;JF-014;39325;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 5;JOSON CARE;JF-014;29338;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 6;JOSON CARE;JF-014;39436;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 7;JOSON CARE;JF-014;39434;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 8;JOSON CARE;JF-014;39323;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 9;JOSON CARE;JF-014;39417;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 10;JOSON CARE;JF-014;39328;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Moviliario;Mediano Costo;VELADORES CLINICOS 11;JOSON CARE;JF-014;39419;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;ELECTROCARDIOGRAFO;MINDRAY;BeneHeart R12;99017052;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;MONITOR MULTIPARAMETROS;NIHON-Kohden;PVM-2703 ;119288;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;MONITOR MULTIPARAMETROS;NIHON-Kohden;PVM-2704;;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;TENS 1;neuroTrac;C6V350;s/serie;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;TURBION EXTREMIDADES 140LTS;s/marca;S/MODELO;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;TURBION EXTREMIDADES 140LTS;s/marca;S/MODELO;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;BAÑO PARAFINA;;;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;EQUIPO TERAPIA COMBINADA;BTL;038-B-05851;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;COMPRESERO;MEDLINE;;;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;TENS 2;neuroTrac;C6V350;s/serie;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;TROTADORA DE ALTO TRAFICO;bh;dualkit;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Quirurgico;Bajo Costo;MESA DE TRABAJO MIEMBRO SUPERIOR;;;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo industrial;Bajo Costo;balanza con tallimetro;Health o meter;S/MODELO;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BICICLETA 1;bh;hi power;X130900;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BICICLETA 2;life fitness;c1;BAS110811026796;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BICICLETA 3;fitpro;cr800;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;BICICLETA 4;life fitness;c1;BAS110811027068;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Terapeutico;Mediano Costo;PEDALERA;can do;T14000099;;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Moviliario;Bajo Costo;CAMILLA ATENCION PACIENTES;GYMNA;TROFLEX;G033463;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Med. Fisica Rehabilitacion;Mediano Costo;ULTRASONIDO;MEDLINE;4300;s/serie;;;8;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Med. Fisica Rehabilitacion;Mediano Costo;ULTRASONIDO;MEDLINE;4100;2020;;;8;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;TENS 3;tens;7000;;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;NEBULIZADOR;Omron;NE-C801;20140802185UF;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;ESPIROMETRO 1;vitalograph;6800;PN09789;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Kinesiologia;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;ESPIROMETRO 2;Microlab;45335;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;EQUIPO DE ASPIRACION;APEX;VACPRO;2889;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;OXIMETRO DE PULSO;OHMEDA;TUFFSAT;FCB07160347SA;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Mediano Costo;OXIMETRO DE PULSO;OHMEDA;TUFFSAT;FCB07160334SA;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo industrial;Bajo Costo;BALANZA;SECA;GMBH;5700260000000;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo industrial;Bajo Costo;CALIBRADOR;vitalograph;2040;CPS10001;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;TENS 4;I-Tech;T-ONEMEDI PRO;476;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Monitoreo;Bajo Costo;TOMA PRESION DIGITAL;microlife;BP A80;111700237;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo industrial;Mediano Costo;REVELADORA DE PLACAS DENTALES;PERIO MAT;S/MODELO;S/SERIE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;LAMPARA DE FOTOCURADO 1 ;3m;S/MODELO;932123000000;;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;LAMPARA DE FOTOCURADO 2;3m;S/MODELO;932123000000;;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;AMALGAMADOR;densply promix;DB 3338;006001201407A;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;CAVITRON;densply;130B;11511;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;SILLON DENTAL;Dabi Atlante;New croma;k000935;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;ULTRASONIDO DENTAL;movitex;SP-500;11000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;SCALER ULTRASONIDO;DABI ATLANTE;K003447;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;CAVITRON;DENSPLY;130B;130B-15621;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;LAMPARA DE FOTOCURADO;;;;;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;SILLON DENTAL;Dabi Atlante;;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Mediano Costo;SILLON DENTAL;Ye-Shine;modelo: YS1005;;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Alto Costo;EQUIPO DE RX DENTAL;Durr Dental;;;;;8;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Odontologia;Alto Costo;EQUIPO DE RX;Xsamsung;X GXR-68S;DXF21c0094A;;;10;PROPIO;;RELEVANTE;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;MONITOR MULTIPARAMETROS;Nihon- Kohden;PVM-2703;119288;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;MONITOR MULTIPARAMETROS;Nihon- Kohden;PVM-2703;119285;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Bajo Costo;TERMOMETRO DIGITAL;Contec;TI 500;415;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;BOMBA ASPIRACION;Yuwell;7 E-G;6;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;ELECTROCARDIOGRAMA;Mindrray;Beneheart R12;99017052;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;BOMBA ASPIRACION;Yuwell;7 E-G;5;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;DESFIBRILADOR;Allmedica;CU-HD 1;M2R 320022;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;BOMBA ASPIRACION;Clinicon;JX820 D-1;T1119025;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Quirurgico;Mediano Costo;DESFIBRILADOR;Allmedica;CU-HD 1;M2R 058014;;;8;PROPIO;;CRITICO;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Alto Costo;ECOGRAFO;Voluson PG;BT 18;VP 680-1620;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Apoyo Diagnostico;Mediano Costo;IMPRESORA ECOGRAFO;Sony;UPP-110;7214937;;;5;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Medicina;Hospital de Contulmo;Med. Fisica Rehabilitacion;Mediano Costo;TERAPIA COMBINADA;I-Techue;UE;11;;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;dental;Amalgamador;densply promix;DB 3338;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;dental;CAVITRON;densply ;130B;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;bodega equipos medicos;ultrasonido dental;movitex;SP-500;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;bodega equipos medicos;SCALER ULTRASONIDO;DABI ATLANTE;;;10;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;BOX DENTAL;CAVITRON;DENSPLY;130B;;;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;BOX DENTAL;lampara de fotocurado 3;DABI ATLANTE;;;8;PROPIO;;IM ? 12;;;1;medico;0;5;0
+Dental;Hospital de Contulmo;ODONTOLOGIA;Hospital de Contulmo;DENTAL;Ecaler;Beyes;P6-PLUS;S1820298AL;;;PROPIO;;IM ? 13;;;1;medico;0;5;0

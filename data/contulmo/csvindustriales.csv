@@ -1,0 +1,208 @@
+ubicacion;subUbicacion;clase;subclase;nombre;marca;modelo;estado;normativa;garantia;vencimientoGarantia;planMantencion;tipoEquipo;idConvenio;idInstitucion;eliminado
+TRANSPORTE VERTICAL;TRANSPORTE VERTICAL [PISO MECANICO EDIF C 5];Transporte vertical;Transporte de Personas;ASCENSOR NRO 1 PASAJEROS;OTIS  ;MMR-PA13(1000)-CO060-05/05;BUENO;;;;1;industrial;0;5;0
+TRANSPORTE VERTICAL;TRANSPORTE VERTICAL [PISO MECANICO EDIF C 5];Transporte vertical;Transporte de Personas;ASCENSOR NRO 2 PASAJEROS;OTIS;MMR-PA13(1000)-CO060-05/05;BUENO;;;;1;industrial;0;5;0
+TRANSPORTE VERTICAL;TRANSPORTE VERTICAL [PISO MECANICO EDIF C 5];Transporte vertical;Transporte de Personas;ASCENSOR NRO 3 MONTACAMILLAS;OTIS ;Di1-BA30(2000)-2S060-06/06;BUENO;;;;1;industrial;0;5;0
+TRANSPORTE VERTICAL;TRANSPORTE VERTICAL [PISO MECANICO EDIF C 5];Transporte vertical;Transporte de Personas;ASCENSOR NRO 4 MONTACAMILLAS6;OTIS ;Di1-BA30(2000)-2S060-06/0;MALO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;CALDERA;IVAR ;SUPERAC 290;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;CALDERA;IVAR ;SUPERAC 810;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;CALDERA;IVAR ;SUPERAC 810;BUENO;;;;1;industrial;0;5;0
+SALA ELECTRICA;ELECTRICIDAD [SUBTERRANEO C];Energia;Electrica;EQUIPO ELECTROGERNO;DIPERK ;PS550E 550KVA;BUENO;;;;1;industrial;0;5;0
+SALA ELECTRICA;ELECTRICIDAD [SUBTERRANEO C];Energia;Electrica;EQUIPO ELECTROGERNO;DIPERK ; PS550E 550KVA;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Lavado;LAVADORA INDUSTRIAL;IPSO ;IHM067DNHP1EE01/ 52,5kW;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Lavado;LAVADORA INDUSTRIAL;IPSO ;IHM067DNHP1EE01/ 52,5kW;BUENO;;;;1;industrial;0;5;0
+ESTERILIZACION ;ESTERILIZACION [C-027 CENTRAL ESTERILIZACION];Apoyo industrial;Descontaminacion;LAVADORA DESCONTAMINADORA;STEELCO ;DS-500-CL-LCD;BUENO;;;;1;industrial;0;5;0
+ESTERILIZACION ;ESTERILIZACION [C-027 CENTRAL ESTERILIZACION];Apoyo industrial;Descontaminacion;LAVADORA ULTRASONIDO;KEN ;IWD 23-14 204 LTS;BUENO;;;;1;industrial;0;5;0
+ESTERILIZACION ;ESTERILIZACION [C-027 CENTRAL ESTERILIZACION];Apoyo industrial;Descontaminacion;LAVADORA ULTRASONIDO;STEELCO ;US-100;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Planchado;PLANCHA INDUSTRIAL;CHICAGO ;LASER LINE  / E020-120F    / 38kW;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;QUEMADOR DIESEL;RIELO ;RL 100 1.8KW;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;QUEMADOR DIESEL;RIELO ;RL 100 1.8KW;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Energia;Calorica;QUEMADOR DIESEL;RIELO ;RL 34;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Secado;SECADORA INDUSTRIAL;CISSELL ;CT075      / 30kW;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Secado;SECADORA INDUSTRIAL;CISSELL ;CT075      / 30kW;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Secado;SECADORA INDUSTRIAL;CISSELL ;CT075      / 30kW;BUENO;;;;1;industrial;0;5;0
+LAVANDERIA;LAVANDERIA [E-001 LAVANDERIA];Apoyo industrial;Secado;SECADORA INDUSTRIAL;CISSELL ;CT075      / 30kW;BUENO;;;;1;industrial;0;5;0
+HOSPITAL KALLVU LLANKA;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Comunicaciones;Distribucion;SISTEMA CORREO NEUMATICO;WESCO ;SWISSLOG;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD ;ELECTRICIDAD [1ER PISO A];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;S/N;BUENO;;;;1;industrial;0;5;0
+PLANTA AGUA SERVIDAS;PLANTA AGUA SERVIDAS [SALA ELECTRICA PLANTA ELEVADORA];Manejo de liquidos;Elevacion de aguas servidas;TABLERO ELECTRICO;LEGRAND;S/N;REGULAR ;;;;1;industrial;0;5;0
+POZOS SUBTERRANEOS;POZOS SUBTERRANEOS;Manejo de liquidos;Elevacion de agua potable;BOMBAS SUMERGIBLES;S/N;S/N;REGULAR ;;;;1;industrial;0;5;0
+ACCESO ESTANQUES;ACCESO ESTANQUES;Manejo de liquidos;Elevacion de agua potable;BOMBAS SENTINA LADO CONTROL;BESTFLOW;GMB-12S(A);BUENO;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS SENTINA;S/N;S/N;REGULAR ;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS  AGUA POTABLE ;LOWARA;VIA LOMBARDI 14-36075;REGULAR ;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS  RIEGO;LOWARA;VIA LOMBARDI 14-36075;REGULAR ;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS  RED HUMEDA;LOWARA;VIA LOMBARDI 14-36075;REGULAR ;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS DE RED INCENDIO;WEO  ;CC029 A;REGULAR ;;;;1;industrial;0;5;0
+SALA BOMBAS;SALA BOMBAS;Manejo de liquidos;Elevacion de agua potable;BOMBAS JOCKEY;MOT  ;M680B2-19FT 100-01;REGULAR ;;;;1;industrial;0;5;0
+SALA CALDERA/ 2 PISO MECANICO;SALA CALDERA/ 2 MECANICO;Manejo de liquidos;Elevacion de fluidos y agua caliente;BOMBAS CIRCULACION CALEFACCION;SALMSON ;NOS-32-160B;REGULAR ;;;;1;industrial;0;5;0
+SALA CALDERA;SALA CALDERA;Manejo de liquidos;Elevacion de agua potable;BOMBA CIRCULACION AGUA SANITARIA;SALMSON ;NSB-25-20B;BUENO;;;;1;industrial;0;5;0
+SALA CALDERA;SALA CALDERA;Manejo de liquidos;Elevacion de fluidos y agua caliente;BOMBA CIRCULACION PLACA INTERCAMBIADORA;SALMSON ;SXS40-39;BUENO;;;;1;industrial;0;5;0
+SALA CALDERA;SALA CALDERA;Manejo de liquidos;Elevacion de agua potable;BOMBA CIRCULACION BOYLER;SALMSON ;SXS40-40;BUENO;;;;1;industrial;0;5;0
+SALAS DE ESPERA;LOZA RADIANTE AB C D E F G;Manejo de liquidos;Elevacion de fluidos y agua caliente;BOMBAS LOZA RADIANTES;SALMSON ;SXS40-25;REGULAR ;;;;1;industrial;0;5;0
+PLANTA ELEVADORA ;PLANTA ELEVADORA ;Manejo de liquidos;Elevacion de aguas servidas;BOMBAS PLANTA ELEVADORA;PENTAX;DMT1000;REGULAR ;;;;1;industrial;0;5;0
+HOSPITAL KALLVU LLANKA;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Seguridad y vias de escape;MANTENCION PREVENTIVA CCTV7 METASYS;JOHNSON CONTROLS ;S/N;REGULAR ;;;;1;industrial;0;5;0
+CENTRAL GASES CLINICOS;RED TOTAL DE GASES CLINICOS;Apoyo industrial;Distribucion;MANTENCION PREVENTIVA RED GASES CLINICOS;OHIO;OHIO;REGULAR ;;;;1;industrial;0;5;0
+PATIO DESCARGA;PATIO DESCARGA;Energia;Calorica;ENFRIADOR DE AGUA CHILLER;ANWO;MGBL-F65W/RN1C;BUENO;;;;1;industrial;0;5;0
+MEDICO QUIRURGICO;MEDICO QUIRURGICO;Apoyo industrial;Descontaminacion;LAVACHATA;OPPICCI ;LC0450A37 /                         2,7kW;BUENO;;;;1;industrial;0;5;0
+PEDIATRIA;PEDIATRIA;Apoyo industrial;Descontaminacion;LAVACHATA;OPPICCI ;LC0450A37 /                         2,7kW;REGULAR;;;;1;industrial;0;5;0
+PREPARTO;PREPARTO;Apoyo industrial;Descontaminacion;LAVACHATA;OPPICCI ;LC0450A37 /                         2,7kW;BUENO;;;;1;industrial;0;5;0
+PABELLON;PABELLON;Apoyo industrial;Descontaminacion;LAVACHATA;OPPICCI ;LC0450A37 /                         2,7kW;BUENO;;;;1;industrial;0;5;0
+URGENCIA;URGENCIA;Apoyo industrial;Descontaminacion;LAVACHATA;OPPICCI ;LC0450A37 /                         2,7kW;BUENO;;;;1;industrial;0;5;0
+ESTERILIZACION ;ESTERILIZACION [C-027 CENTRAL ESTERILIZACION];Apoyo industrial;Calorica;AIRE ACONDICIONADO SPLIT;YORK;    YOKC36FS-BCR;BUENO;;;;1;industrial;0;5;0
+CONTROL CENTRALIZADO;CONTROL CENTRALIZADO;Apoyo industrial;Calorica;AIRE ACONDICIONADO SPLIT;YORK;    YOKC36FS-BCR;BUENO;;;;1;industrial;0;5;0
+RACK INFORMATICA;RACK INFORMATICA;Apoyo industrial;Calorica;AIRE ACONDICIONADO SPLIT;YORK;     YOKC24FS-BAR;BUENO;;;;1;industrial;0;5;0
+RACK INFORMATICA;RACK INFORMATICA;Apoyo industrial;Calorica;AIRE ACONDICIONADO SPLIT;KHoNE;CUA-60H KIT 4 m;BUENO;;;;1;industrial;0;5;0
+2PISO MECANICO;2PISO MECANICO;Apoyo industrial;Electrica;UPS PABELLON;EATON ;E SERIRES   20kva;BUENO;;;;1;industrial;0;5;0
+2PISO MECANICO;2PISO MECANICO;Apoyo industrial;Electrica;UPS PABELLON;EATON  ;E SERIRES   20kva;REGULAR;;;;1;industrial;0;5;0
+PATIO DESCARGA;PATIO DESCARGA;Apoyo industrial;Distribucion;ESTANQUE CRIOGENICO;GOTEBORG;60-VC SP-15-SE;BUENO;;;;1;industrial;0;5;0
+TABLERO TRANSFERENCIA;TABLERO TRANSFERENCIA;Apoyo industrial;Electrica;TABLERO TRANSFERENCIA;ATI;1000A;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;CALENTADOR DE AGUA;CTA;WB/30;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;COCINA ELECTRICA;OPPICI;6 PLATOS;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Refrigeracion;CAMARA DE FRIO;S/INFO;S/INFO;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Refrigeracion;CONGELADORA;MIMET;CV-580 A;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;MEZCLADORA;FOOD MACHINE;HL-11012;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;ABATIDOR;IRINOX;HC 51/20;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;COCINA ELECTRICA;TEKA;EM /230 2P;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;PICADOR;SKYMSEN;PA-7SE;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;PELADOR DE PAPAS;FAMAVA;S/INFO;MALO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;MALO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Refrigeracion;MARMITA;OPPICI;SB 150 E00;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HORNO;FAMAVA;OV-1110;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HORNO ELECTRICO INDUSTRIAL;S/INFO;S/INFO;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Refrigeracion;REFRIGERADOR;FENSA;S/INFO;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Refrigeracion;REFRIGERADOR;WHIRLPOOL;WVE 24 B1;BUENO;;;;1;industrial;0;5;0
+CUBIERTAS;CUBIERTAS;Apoyo industrial;Seguridad y vias de escape;CUBIERTAS/ TECHOS;TODAS LAS CUBIERTAS;S/N;BUENO;;;;1;industrial;0;5;0
+SALA DE BOMBAS;SALA DE BOMBAS;Apoyo industrial;Seguridad y vias de escape;RED HUMEDA;JOHNSON CONTROLS ;S/N;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO A];ELECTRICIDAD [1ER PISO A];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO A];ELECTRICIDAD [1ER PISO A];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO B];ELECTRICIDAD [1ER PISO B];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO B];ELECTRICIDAD [1ER PISO B];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO B];ELECTRICIDAD [1ER PISO B];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO C];ELECTRICIDAD [1ER PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO C];ELECTRICIDAD [1ER PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO C];ELECTRICIDAD [1ER PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO D];ELECTRICIDAD [1ER PISO D];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [1ER PISO D];ELECTRICIDAD [1ER PISO D];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [2DO PISO C];ELECTRICIDAD [2DO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [2DO PISO C];ELECTRICIDAD [2DO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [2DO PISO C];ELECTRICIDAD [2DO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [3ER PISO C];ELECTRICIDAD [3ER PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [3ER PISO C];ELECTRICIDAD [3ER PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [4TO PISO C];ELECTRICIDAD [4TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [4TO PISO C];ELECTRICIDAD [4TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [5TO PISO C];ELECTRICIDAD [5TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [5TO PISO C];ELECTRICIDAD [5TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [5TO PISO C];ELECTRICIDAD [5TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [5TO PISO C];ELECTRICIDAD [5TO PISO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [SUBTERRANEO C];ELECTRICIDAD [SUBTERRANEO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO A];ELECTRICIDAD [ZOCALO A];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO B];ELECTRICIDAD [ZOCALO B];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO B];ELECTRICIDAD [ZOCALO B];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO C];ELECTRICIDAD [ZOCALO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO C];ELECTRICIDAD [ZOCALO C];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO D];ELECTRICIDAD [ZOCALO D];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+ELECTRICIDAD [ZOCALO E];ELECTRICIDAD [ZOCALO E];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+PLANTA AGUA SERVIDAS [SALA ELECTRICA PLANTA ELEVADORA];PLANTA AGUA SERVIDAS [SALA ELECTRICA PLANTA ELEVADORA];Apoyo industrial;Electrica;TABLERO ELECTRICO;LEGRAND;LEGRAND;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. A zocalo y 1 piso;Apoyo industrial;Extraccion;U.M.A;York;CMAC AG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. B central de alimentacion;Apoyo industrial;Extraccion;U.M.A;York;CMAC BZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. B kinesiologia, rayo x;Apoyo industrial;Extraccion;U.M.A;York;CMAC B1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edificio C pabellon quirurgico;Apoyo industrial;Extraccion;U.M.A;York;CMCM C1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C pabellon de procedimiento;Apoyo industrial;Extraccion;U.M.A;York;CMCM C1.2;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C sala de parto 1;Apoyo industrial;Extraccion;U.M.A;York;CMCM C1.3;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C sala de parto 2;Apoyo industrial;Extraccion;U.M.A;York;CMCM C1.4;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C circulacion pabellones;Apoyo industrial;Extraccion;U.M.A;York;CMCM C.15;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C post operados;Apoyo industrial;Extraccion;U.M.A;York;CMCM C1.6;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C esterilizacion;Apoyo industrial;Extraccion;U.M.A;York;CMCM CZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C auditorio;Apoyo industrial;Extraccion;U.M.A;York;CMCM 01i;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C uma general;Apoyo industrial;Extraccion;U.M.A;York;CMAC CG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C RRHH;Apoyo industrial;Extraccion;U.M.A;York;CMAC C2.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. D vestidores, guardarropia;Apoyo industrial;Extraccion;U.M.A;York;CMAC DZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. D 1 piso laboratorio;Apoyo industrial;Extraccion;U.M.A;York;CMAC D1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. E lavanderia;Apoyo industrial;Extraccion;U.M.A;York;CMAC EZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. E 1 piso;Apoyo industrial;Extraccion;U.M.A;York;CMAC E1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. F abarca zocalo y 1 piso;Apoyo industrial;Extraccion;U.M.A;York;CMAC FG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. G abarca zocalo y 1 piso;Apoyo industrial;Extraccion;U.M.A;York;CMAC GG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. B comedores;Apoyo industrial;Extraccion;U.M.A;York;CMAC B03;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. A zocalo y 1 piso;Apoyo industrial;Extraccion;Vex;York;VEC AG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. B zocalo;Apoyo industrial;Extraccion;Vex;York;VEC BZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. b kinesiologia, rayo x;Apoyo industrial;Extraccion;Vex;York;VEC B1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C pabellon quirurgico;Apoyo industrial;Extraccion;Vex;York;VEC C1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C pabellon de procedimiento;Apoyo industrial;Extraccion;Vex;York;VEC C1.2;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C  sala de parto 1;Apoyo industrial;Extraccion;Vex;York;VEC  C1.3;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C sala de parto 2;Apoyo industrial;Extraccion;Vex;York;VEC C1.4;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C circulacion pabellone4s;Apoyo industrial;Extraccion;Vex;York;VEC C1.5;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C Post operados;Apoyo industrial;Extraccion;Vex;York;VEC C1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C Esterilizacion;Apoyo industrial;Extraccion;Vex;York;VEC CZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C Auditorio;Apoyo industrial;Extraccion;Vex;York;VEC 01E;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Vec  general;Apoyo industrial;Extraccion;Vex;York;VEC CG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. C RRHH;Apoyo industrial;Extraccion;Vex;York;VEC C2.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. D Vestidores guardarropia;Apoyo industrial;Extraccion;Vex;York;VEC DZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. D Laboratorio;Apoyo industrial;Extraccion;Vex;York;VEC D1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. E Lavanderia;Apoyo industrial;Extraccion;Vex;York;VEC EZ.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. E 1 piso;Apoyo industrial;Extraccion;Vex;York;VEC E1.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. f Abarca zocalo y 1 piso;Apoyo industrial;Extraccion;Vex;York;VEC FG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. G zocalo y 1 piso;Apoyo industrial;Extraccion;Vex;York;VEC GG.1;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Edif. B zocalo;Apoyo industrial;Extraccion;Vex;York;VEC BZ.3;BUENO;;;;1;industrial;0;5;0
+Piso Mecanico;Subterraneo;Apoyo industrial;Extraccion;Vex;York;VEC CS.1;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Servicios Clinicos;HOSPITAL KALLVU LLANKA [TODAS LAS PLANTAS];Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;8300T TYPO: 2P270NF;BUENO;;;;1;industrial;0;5;0
+Vacunatorio;VACUNATORIO;Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;3663SG;BUENO;;;;1;industrial;0;5;0
+Vacunatorio;VACUNATORIO;Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;3663SG;BUENO;;;;1;industrial;0;5;0
+Vacunatorio;VACUNATORIO;Apoyo industrial;Refrigeracion;REFRIGERADOR ;FENSA;3663SG;BUENO;;;;1;industrial;0;5;0
+URGENCIA;URGENCIA;Apoyo industrial;Refrigeracion;REFRIGERADOR ;WHIRLPOOL;WRZ49;BUENO;;;;1;industrial;0;5;0
+URGENCIA;URGENCIA;Apoyo industrial;Refrigeracion;REFRIGERADOR ;RECCO;RFR-50AT;BUENO;;;;1;industrial;0;5;0
+PEDIATRIA;PEDIATRIA;Apoyo industrial;Refrigeracion;REFRIGERADOR ;RECCO;RFR-50AT;BUENO;;;;1;industrial;0;5;0
+Central de Gases Clinicos;Central de Gases Clinicos;Apoyo industrial;Distribucion;Central de Aire a Piston;Ohio Medical;AP750B-ST3 ;BUENO;;;;1;industrial;0;5;0
+Central de Gases Clinicos;Central de Gases Clinicos;Apoyo industrial;Distribucion;Central de Vacio;Ohio Medical;S750-ST3 ;BUENO;;;;1;industrial;0;5;0
+Central de Gases Clinicos;Central de Gases Clinicos;Apoyo industrial;Distribucion;Manifold ;Ohio Medical;Oxigeno;BUENO;;;;1;industrial;0;5;0
+Central de Gases Clinicos;Central de Gases Clinicos;Apoyo industrial;Distribucion;Manifold ;Ohio Medical; Dioxido de carbono;BUENO;;;;1;industrial;0;5;0
+Central de Gases Clinicos;Central de Gases Clinicos;Apoyo industrial;Distribucion;Manifold ;Ohio Medical;Oxido Nitroso;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;MALO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;MALO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;HERVIDOR;FAMAVA;S/INFO;MALO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;CARRO DE TRANSPORTE DE BANDEJAS Y COMIDA;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;TERMOFUSION INOXDABLE 6 LTS;BIGGI;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;BAÑO MARIA;FAMAVA;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;BAÑO MARIA;FAMAVA;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Distribucion;BAÑO MARIA;FAMAVA;S/INFO;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Coccion;SARTEN VASCULANTE;OPPICI;9B150E60;REGULAR;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CENTRAL ALIMENTACION ZOCALO;Apoyo industrial;Lavado;LAVAVAJILLA;HOBART ;-;REGULAR;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Apoyo industrial;Calorica;BOILER AGUA CALIENTE;MASTER;MV-4000R;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Apoyo industrial;Calorica;BOILER AGUA CALIENTE;MASTER;MV-4000R;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Apoyo industrial;Calorica;INTERCAMBIADOR DE CALOR;CIPRIANI;S125;BUENO;;;;1;industrial;0;5;0
+CENTRAL TERMICA Y CLIMA ;CENTRAL TERMICA Y CLIMA [CS-XXX CENTRAL TERMICA];Apoyo industrial;Calorica;INTERCAMBIADOR DE CALOR;CIPRIANI;S125;BUENO;;;;1;industrial;0;5;0
+FARMACIA AMBULATORIA;FARMACIA AMBULATORIA;Apoyo industrial;Calorica;AIRE ACONDICIONADO SPLIT;KHONE;KSMI-18BCI;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;HERVIDOR 28 LITROS;VENTUS;VHS-28;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;HERVIDOR 28 LITROS;VENTUS;VHS-28;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;HERVIDOR 28 LITROS;VENTUS;VHS-28;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;CORTA ESTADIA;Comunicaciones;Calorica;TELEVISOR;SAMSUNG;T5202;BUENO;;;;0;industrial;0;5;0
+SALA CUNA;SALA CUNA;Comunicaciones;Calorica;TELEVISOR;SAMSUNG;T5202;BUENO;;;;0;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;CARRO ACERO;S/M;ST110-140;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;CARRO ACERO;S/M;ST110-140;BUENO;;;;1;industrial;0;5;0
+CENTRAL ALIMENTACION;C. ALIMENTACION;Apoyo industrial;Calorica;CARRO ACERO;S/M;ST110-140;BUENO;;;;1;industrial;0;5;0
+ESTERILIZACION ;ESTERILIZACION [C-027];Apoyo industrial;Secado;SECADOR;BELIMED;DC-2250;BUENO;;;;1;industrial;0;5;0
